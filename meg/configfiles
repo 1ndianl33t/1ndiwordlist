@@ -74,7 +74,11 @@
 /phpunit/phpunit/Util/PHP/
 /phpunit/src/Util/PHP/
 /phpunit/Util/PHP/
-
 /v2/api-docs
 /swagger-ui.html
 /api-docs
+/dump - 
+/trace - 
+/logfile - 
+/mappings -
+/env
